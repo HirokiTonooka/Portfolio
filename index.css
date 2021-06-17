@@ -1,0 +1,12 @@
+li {
+    color: #000000;
+    background-color: #ffdbcd;
+    width: 100%;
+}
+
+body {
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
