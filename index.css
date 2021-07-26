@@ -282,3 +282,7 @@ footer {
     /* デフォルトではメニューアイコンは非表示に */
     display: none;
 }
+
+.test img {
+    width: 100%;
+}
